@@ -1,5 +1,9 @@
-NAME = megamorphf/phpldapadmin
-VERSION = 0.7.1
+NAME = osixia/phpldapadmin
+VERSION = 0.7.0
+
+becomes :
+NAME = megamorphf/phpldap-centos
+VERSION = 0.1.0
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version
 
